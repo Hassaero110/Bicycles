@@ -1,33 +1,35 @@
-#Bicycle Inventory Application
-##Running the Application with Docker
-###Step 1: Build the Docker Image
+# Bicycle Inventory Application
+## Running the Application with Docker
+### Step 1: Build the Docker Image
 
-docker build -t bicycle_inventory_app:latest .
+```docker build -t bicycle_inventory_app:latest .```
 
-###Step 2: Run the Application
+### Step 2: Run the Application
 
-###Use the following command to run the application inside a Docker container:
+### Use the following command to run the application inside a Docker container:
 
-docker run --rm bicycle_inventory_app:latest <function1> [function2 ...]
+```docker run --rm bicycle_inventory_app:latest <function1> [function2 ...]```
 
-###Available Functions:
-
-filter
+### Available Functions:
+```filter
 brand_count
 sort
 gbp_per_kg
-Examples:
+Examples: 
+```
+### Run the filter function:
 
-###Run the filter function:
+```docker run --rm bicycle_inventory_app:latest filter```
+### Run multiple functions in sequence:
 
-docker run --rm bicycle_inventory_app:latest filter
-###Run multiple functions in sequence:
+```docker run --rm bicycle_inventory_app:latest filter sort```
 
-docker run --rm bicycle_inventory_app:latest filter sort
+### Output result to another file:
 
-###The application automatically cleans the data before executing the specified functions.
+```docker run --rm bicycle_inventory_app:latest filter > filtered_invetory.json```
+### The application automatically cleans the data before executing the specified functions.
 
-##Short Usage Guide
+## Short Usage Guide
 filter: Filters in-stock mountain bikes priced at £1000 or more.
 brand_count: Counts the number of bicycles per brand.
 sort: Sorts bicycles by price and weight.
