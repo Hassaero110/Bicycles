@@ -11,7 +11,8 @@
 ```docker run --rm bicycle_inventory_app:latest <function1> [function2 ...]```
 
 ### Available Functions:
-```filter
+```
+filter
 brand_count
 sort
 gbp_per_kg
