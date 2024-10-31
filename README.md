@@ -31,8 +31,9 @@ Examples:
 ### The application automatically cleans the data before executing the specified functions.
 
 ## Short Usage Guide
-filter: Filters in-stock mountain bikes priced at £1000 or more.
-brand_count: Counts the number of bicycles per brand.
-sort: Sorts bicycles by price and weight.
-gbp_per_kg: Calculates the price per kilogram for each bicycle.
-Note: Replace <function1> [function2 ...] with one or more functions from the list above to perform the desired operations.
+- filter: Filters in-stock mountain bikes priced at £1000 or more.
+- brand_count: Counts the number of bicycles per brand.
+- sort: Sorts bicycles by price and weight.
+- gbp_per_kg: Calculates the price per kilogram for each bicycle.
+  
+#### Note: Replace <function1> [function2 ...] with one or more functions from the list above to perform the desired operations.
