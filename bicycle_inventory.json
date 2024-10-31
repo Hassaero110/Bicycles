@@ -1,0 +1,182 @@
+[
+  {
+    "model_id": 1,
+    "model_name": "Trailblazer 3000",
+    "brand": "CycloX",
+    "type": "Road Bike",
+    "price_gbp": 936,
+    "weight_kg": 13.5,
+    "in_stock": true
+  },
+  {
+    "model_id": 2,
+    "model_name": "Speedster Pro",
+    "brand": "RoadFlex",
+    "type": "Road Bike",
+    "price_gbp": null,
+    "weight_kg": 7.8,
+    "in_stock": false
+  },
+  {
+    "model_id": 3,
+    "model_name": "Hybrid Elite",
+    "brand": "UrbanRide",
+    "type": "Hybrid Bike",
+    "price_gbp": 585,
+    "weight_kg": null,
+    "in_stock": null
+  },
+  {
+    "model_id": 4,
+    "model_name": "Climber 500",
+    "brand": "HillMaster",
+    "type": "Mountain Bike",
+    "price_gbp": 1053,
+    "weight_kg": 14.0,
+    "in_stock": true
+  },
+  {
+    "model_id": 5,
+    "model_name": "City Cruiser",
+    "brand": "UrbanRide",
+    "type": "Hybrid Bike",
+    "price_gbp": 468,
+    "weight_kg": 11.5,
+    "in_stock": true
+  },
+  {
+    "model_id": null,
+    "model_name": "Sprint King",
+    "brand": "SpeedRacer",
+    "type": "Road Bike",
+    "price_gbp": 2496,
+    "weight_kg": 8.0,
+    "in_stock": false
+  },
+  {
+    "model_id": 7,
+    "model_name": "All-Terrain",
+    "brand": "CycloX",
+    "type": "Mountain Bike",
+    "price_gbp": 858,
+    "weight_kg": 16.0,
+    "in_stock": true
+  },
+  {
+    "model_id": 8,
+    "model_name": "Roadster",
+    "brand": "SpeedRacer",
+    "type": "Road Bike",
+    "price_gbp": null,
+    "weight_kg": 10.2,
+    "in_stock": true
+  },
+  {
+    "model_id": 9,
+    "model_name": null,
+    "brand": "HillMaster",
+    "type": "Mountain Bike",
+    "price_gbp": 720,
+    "weight_kg": 10.0,
+    "in_stock": true
+  },
+  {
+    "model_id": 10,
+    "model_name": "Urban Comet",
+    "brand": "CityRide",
+    "type": "Hybrid Bike",
+    "price_gbp": 720,
+    "weight_kg": 11.0,
+    "in_stock": true
+  },
+  {
+    "model_id": 11,
+    "model_name": "Speed Racer X",
+    "brand": "RoadFlex",
+    "type": "Road Bike",
+    "price_gbp": 1499,
+    "weight_kg": 7.5,
+    "in_stock": false
+  },
+  {
+    "model_id": 12,
+    "model_name": "Trail Master 500",
+    "brand": "UrbanRide",
+    "type": "Road Bike",
+    "price_gbp": 980,
+    "weight_kg": 14.0,
+    "in_stock": true
+  },
+  {
+    "model_id": 13,
+    "model_name": "Velocity Rider",
+    "brand": "CycloX",
+    "type": "Mountain Bike",
+    "price_gbp": 1040,
+    "weight_kg": 15.3,
+    "in_stock": false
+  },
+  {
+    "model_id": 14,
+    "model_name": "Turbo Glide",
+    "brand": "CycloX",
+    "type": "Hybrid Bike",
+    "price_gbp": 837,
+    "weight_kg": 8.2,
+    "in_stock": true
+  },
+  {
+    "model_id": 15,
+    "model_name": "Mountain Conqueror",
+    "brand": "CityRide",
+    "type": "Mountain Bike",
+    "price_gbp": 500,
+    "weight_kg": 9.4,
+    "in_stock": true
+  },
+  {
+    "model_id": 16,
+    "model_name": "Speed Hawk",
+    "brand": "SpeedRacer",
+    "type": "Road Bike",
+    "price_gbp": 1210,
+    "weight_kg": 15.9,
+    "in_stock": true
+  },
+  {
+    "model_id": 17,
+    "model_name": "Urban Strider",
+    "brand": "UrbanRide",
+    "type": "Hybrid Bike",
+    "price_gbp": 530,
+    "weight_kg": 7.9,
+    "in_stock": true
+  },
+  {
+    "model_id": 18,
+    "model_name": "Summit Explorer",
+    "brand": "HillMaster",
+    "type": "Mountain Bike",
+    "price_gbp": 899,
+    "weight_kg": 11.3,
+    "in_stock": true
+  },
+  {
+    "model_id": 19,
+    "model_name": "Rapid Climber",
+    "brand": "HillMaster",
+    "type": "Mountain Bike",
+    "price_gbp": null,
+    "weight_kg": null,
+    "in_stock": true
+  },
+  {
+    "model_id": 20,
+    "model_name": "Pathfinder XT",
+    "brand": "SpeedRacer",
+    "type": "Hybrid Bike",
+    "price_gbp": 1509,
+    "weight_kg": 16.6,
+    "in_stock": true
+  }
+]
